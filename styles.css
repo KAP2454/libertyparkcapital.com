@@ -321,7 +321,6 @@ body {
 
 .about-logo img {
     max-width: 300px;
-    width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -537,6 +536,24 @@ body {
 
 .form-group textarea {
     resize: vertical;
+}
+
+#form-status {
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+#form-status:not([style*="display: none"]) {
+    background-color: #f0f9f7;
+    border: 1px solid #0D5649;
+}
+
+.contact-form button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
 }
 
 /* Footer */
