@@ -37,7 +37,7 @@ Create a clean, professional, trustworthy landing page that establishes credibil
 
 ### Simplified Structure
 
-#### 1. **Hero Section** (Above the fold)
+#### 1. **Hero Section** (Above the fold)e
 - **Remove:** Large background  animations, complex text animations, time/date displays
 - **Keep:** Clean hero layout, company name
 - **New Content:**
@@ -51,7 +51,7 @@ Create a clean, professional, trustworthy landing page that establishes credibil
 - **Remove:** Complex technical diagrams, AI/agent terminology
 - **New Content:**
   - Brief firm history (founded year, Austin-based)
-  - Investment philosophy (3-4 key principles)
+  - Investment philosophy (3-4 key pScreenshot 2025-12-30 at 10.49.47 AM.pngrinciples)
   - Team overview (founders/key partners with photos)
   - Credentials/licenses displayed
 
